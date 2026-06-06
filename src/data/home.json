@@ -1,8 +1,8 @@
 {
   "name": "Aminur Muda Nasution",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "intro": "I'm a <span class='text-white font-bold'>Web & Full-Stack Software Engineer</span> with over 7 years of experience building high-performance web applications and desktop tools. Currently engineering digital products at <span class='text-white font-bold'>INA Digital Edu</span>.",
+  "introHtml": "I'm a <span class='text-white font-bold'>Web & Full-Stack Software Engineer</span> with over 7 years of experience building high-performance web applications and desktop tools. Currently engineering digital products at <span class='text-white font-bold'>INA Digital Edu</span>.",
   "webpageTitle": "Aminur Muda Nasution",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
