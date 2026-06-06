@@ -1,8 +1,8 @@
 {
   "name": "Aminur Muda Nasution",
   "photoUrl": "favicon.svg",
-  "intro": "I'm a <span class='text-white font-bold'>Web & Full-Stack Software Engineer</span> with over 7 years of experience building high-performance web applications and desktop tools. Currently engineering digital products at <span class='text-white font-bold'>INA Digital Edu</span>.",
-  "introHtml": "I'm a <span class='text-white font-bold'>Web & Full-Stack Software Engineer</span> with over 7 years of experience building high-performance web applications and desktop tools. Currently engineering digital products at <span class='text-white font-bold'>INA Digital Edu</span>.",
+  "intro": "I'm a <span class='text-white font-bold'>Web & Full-Stack Engineer</span> at <span class='text-white font-bold'>INA Digital Edu</span>, currently helping build educational platforms for the Indonesian Ministry of Education (MoECRT). I enjoy crafting clean, performant web and desktop applications using <span class='text-white font-bold'>Next.js, React.js, and TypeScript</span>.",
+  "introHtml": "I'm a <span class='text-white font-bold'>Web & Full-Stack Engineer</span> at <span class='text-white font-bold'>INA Digital Edu</span>, currently helping build educational platforms for the Indonesian Ministry of Education (MoECRT). I enjoy crafting clean, performant web and desktop applications using <span class='text-white font-bold'>Next.js, React.js, and TypeScript</span>.",
   "webpageTitle": "Aminur Muda Nasution",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",

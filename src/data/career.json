@@ -1,44 +1,81 @@
 [
   {
     "company": "INA Digital Edu",
-    "role": "Software Development Engineer, Web",
     "period": "May 2022 - Present",
-    "type": "Contract",
-    "description": "",
-    "skills": [
-      "Next.js",
-      "Tailwind",
-      "TypeScript",
-      "Electron",
-      "Leaflet.js"
+    "roles": [
+      {
+        "role": "Software Development Engineer, Web",
+        "period": "May 2022 - Present",
+        "type": "Contract",
+        "description": "• Developed a simple, user-friendly, and lightweight dashboard platform for users across Indonesia, ensuring a seamless experience even in areas with slow or unstable internet access.\n• Observed resource usage, calculated efficiencies, and provided recommendations to ensure resource utilization remained at ~60%, optimizing cost savings for infrastructure.\n• Boosted test coverage from 41% to 91%, significantly enhancing code quality and reliability.\n• Implement integration test and visual test.\n• Documenting technical guides for project handover.",
+        "skills": [
+          "Next.js",
+          "Electron",
+          "TypeScript",
+          "React.js",
+          "Tailwind",
+          "Vite",
+          "Jest",
+          "Playwright",
+          "Leaflet",
+          "Kubernetes",
+          "Google Cloud Platform",
+          "SQLite",
+          "PostgreSQL"
+        ]
+      }
     ]
   },
   {
     "company": "Manuva",
-    "role": "Software Engineer, Full-stack",
     "period": "Dec 2018 - Apr 2022",
-    "type": "Full time",
-    "description": "",
-    "skills": [
-      "Nuxt.js",
-      "Express.js",
-      "TypeScript",
-      "MySQL",
-      "GraphQL",
-      "Vue.js",
-      "Laravel",
-      "Rails"
+    "roles": [
+      {
+        "role": "Senior Software Engineer",
+        "period": "Dec 2021 - Apr 2022",
+        "type": "Full time",
+        "description": "• Assigned as the front end developer of their new project, which was initiated to build a marketplace ecosystem, where retailers, distributors, and manufactures can meet and collaborate to develop their business.\n• Led a team and communicated with the Gobiz (a super app from Gojek for merchants) team regarding our product catalog PWA embedded in Gobiz app.",
+        "skills": [
+          "Nuxt.js",
+          "Express.js",
+          "TypeScript",
+          "MySQL",
+          "GraphQL"
+        ]
+      },
+      {
+        "role": "Software Engineer, Full-stack",
+        "period": "Dec 2018 - Dec 2021",
+        "type": "Full time",
+        "description": "• Developed features, implement A/B Test, and revamped UI components in Tjetak Market (a one stop solution marketplace for printing and packaging needs).\n• Improved the UI of Tjetak Plus (a marketplace with specific focus to B2B).\n• Improved the SEO of the Tjetak Market by completing the meta title, description, keywords, etc. of Tjetak product and category pages based on the recommendation of Tjetak SEO Consultant.\n• Deployed the application to staging and production servers in Google Cloud Platform.",
+        "skills": [
+          "Vue.js",
+          "Laravel",
+          "Nuxt.js",
+          "Rails",
+          "Bulma",
+          "Docker",
+          "MySQL",
+          "Google Cloud Platform"
+        ]
+      }
     ]
   },
   {
-    "company": "HappyFresh ",
-    "role": "Software Engineer, Backend",
+    "company": "HappyFresh",
     "period": "Sep 2018 - Dec 2018",
-    "type": "Full time",
-    "description": "",
-    "skills": [
-      "Rails",
-      "RSpec"
+    "roles": [
+      {
+        "role": "Software Engineer, Backend",
+        "period": "Sep 2018 - Dec 2018",
+        "type": "Full time",
+        "description": "• Developed backend API and services of customer engagement and retention squad\n• Created shell scripts to automate unit tests, boosting team efficiency.\n• Deployed the application to the sandbox and staging servers in Amazon Web Service cloud computing service.",
+        "skills": [
+          "Rails",
+          "Rspec",
+          "Amazon Web Service"
+        ]
+      }
     ]
   }
 ]

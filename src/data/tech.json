@@ -4,8 +4,8 @@
       "title": "Frontend",
       "skills": [
         {
-          "name": "Electron",
-          "icon": "skill-icons:electron"
+          "name": "TypeScript",
+          "icon": "skill-icons:typescript"
         },
         {
           "name": "Next.js",
@@ -24,16 +24,20 @@
           "icon": "skill-icons:vuejs-dark"
         },
         {
+          "name": "Electron",
+          "icon": "skill-icons:electron"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
           "name": "HTML",
           "icon": "skill-icons:html"
         },
         {
           "name": "CSS",
           "icon": "skill-icons:css"
-        },
-        {
-          "name": "Tailwind CSS",
-          "icon": "skill-icons:tailwindcss-dark"
         }
       ]
     },
@@ -41,16 +45,16 @@
       "title": "Backend",
       "skills": [
         {
-          "name": "Laravel",
-          "icon": "skill-icons:laravel-dark"
-        },
-        {
           "name": "Node.js",
           "icon": "skill-icons:nodejs-dark"
         },
         {
           "name": "Express.js",
           "icon": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "Laravel",
+          "icon": "skill-icons:laravel-dark"
         },
         {
           "name": "Rails",
@@ -62,16 +66,49 @@
       "title": "Database",
       "skills": [
         {
-          "name": "SQLite",
-          "icon": "skill-icons:sqlite"
-        },
-        {
           "name": "PostgreSQL",
           "icon": "skill-icons:postgresql-dark"
         },
         {
           "name": "MySQL",
           "icon": "skill-icons:mysql-dark"
+        },
+        {
+          "name": "SQLite",
+          "icon": "skill-icons:sqlite"
+        },
+        {
+          "name": "GraphQL",
+          "icon": "skill-icons:graphql-dark"
+        }
+      ]
+    },
+    {
+      "title": "DevOps & Tools",
+      "skills": [
+        {
+          "name": "Docker",
+          "icon": "skill-icons:docker"
+        },
+        {
+          "name": "Kubernetes",
+          "icon": "skill-icons:kubernetes"
+        },
+        {
+          "name": "GCP",
+          "icon": "skill-icons:gcp-dark"
+        },
+        {
+          "name": "AWS",
+          "icon": "skill-icons:aws-dark"
+        },
+        {
+          "name": "Vite",
+          "icon": "skill-icons:vite-dark"
+        },
+        {
+          "name": "Jest",
+          "icon": "skill-icons:jest"
         }
       ]
     }
