@@ -2,7 +2,7 @@
 
 My personal website and developer portfolio built with **Astro**, **Tailwind CSS**, and **Native Browser Animations**.
 
-Live Demo: [aminurmuda.github.io/portfolio](https://aminurmuda.github.io/portfolio/)
+Live Demo: [aminurmuda.github.io](https://aminurmuda.github.io/)
 
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](https://astro.build/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
