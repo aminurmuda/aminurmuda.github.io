@@ -1,20 +1,41 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "title": "Playlish",
+    "description": "Playlish! is an AI-powered educational platform designed for English teachers to transform grammar, vocabulary, and language learning into a fun, interactive, and competitive experience. Developed to help teachers bridge the gap between static textbooks and dynamic language usage, Playlish! makes mastering English concepts as easy as playing a game.",
+    "images": [
+      "playlish-01.webp",
+      "playlish-02.webp",
+      "playlish-03.webp"
+    ],
+    "tech": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Google Gemini API",
+      "Firebase"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://playlish.my.id",
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
+    "title": "Medeena English Center",
     "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "images": [
+      "mec-01.webp",
+      "mec-02.webp"
+    ],
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://medeenaenglishcenter.com",
+    "category": "Landing Page"
   }
 ]

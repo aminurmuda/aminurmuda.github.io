@@ -36,7 +36,8 @@ if (isApiLive && BASE_URL) {
   data = localData as ProfileData;
 }
 
-const { name, photoUrl, intro, introHtml, resumeUrl, socials } = data;
+const { name, photoUrl, intro, introHtml, socials } = data;
+const resumeUrl = import.meta.env.RESUME_URL || data.resumeUrl;
 ---
 
 <section id="home" class="flex flex-col items-center justify-center section-container md:pt-30 gap-1 min-h-[80vh] text-center">

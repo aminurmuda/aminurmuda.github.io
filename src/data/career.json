@@ -1,26 +1,44 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "INA Digital Edu",
+    "role": "Software Development Engineer, Web",
+    "period": "May 2022 - Present",
+    "type": "Contract",
+    "description": "",
+    "skills": [
+      "Next.js",
+      "Tailwind",
+      "TypeScript",
+      "Electron",
+      "Leaflet.js"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Manuva",
+    "role": "Software Engineer, Full-stack",
+    "period": "Dec 2018 - Apr 2022",
+    "type": "Full time",
+    "description": "",
+    "skills": [
+      "Nuxt.js",
+      "Express.js",
+      "TypeScript",
+      "MySQL",
+      "GraphQL",
+      "Vue.js",
+      "Laravel",
+      "Rails"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "HappyFresh ",
+    "role": "Software Engineer, Backend",
+    "period": "Sep 2018 - Dec 2018",
+    "type": "Full time",
+    "description": "",
+    "skills": [
+      "Rails",
+      "RSpec"
+    ]
   }
 ]

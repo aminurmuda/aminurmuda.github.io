@@ -1,35 +1,78 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
-      "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
-      ]
-    },
-    {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        {
+          "name": "Electron",
+          "icon": "skill-icons:electron"
+        },
+        {
+          "name": "Next.js",
+          "icon": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "React.js",
+          "icon": "skill-icons:react-dark"
+        },
+        {
+          "name": "Nuxt.js",
+          "icon": "skill-icons:nuxtjs-dark"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "skill-icons:vuejs-dark"
+        },
+        {
+          "name": "HTML",
+          "icon": "skill-icons:html"
+        },
+        {
+          "name": "CSS",
+          "icon": "skill-icons:css"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "skill-icons:tailwindcss-dark"
+        }
       ]
     },
     {
       "title": "Backend",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        {
+          "name": "Laravel",
+          "icon": "skill-icons:laravel-dark"
+        },
+        {
+          "name": "Node.js",
+          "icon": "skill-icons:nodejs-dark"
+        },
+        {
+          "name": "Express.js",
+          "icon": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "Rails",
+          "icon": "skill-icons:rails"
+        }
       ]
     },
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        {
+          "name": "SQLite",
+          "icon": "skill-icons:sqlite"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "skill-icons:postgresql-dark"
+        },
+        {
+          "name": "MySQL",
+          "icon": "skill-icons:mysql-dark"
+        }
       ]
     }
   ]
